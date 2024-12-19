@@ -45,8 +45,7 @@ Cybersecurity Frameworks: Familiar with NIST and ISO 27001 standards
 🌌 When I’m not immersed in cybersecurity, I enjoy exploring carpentry projects, hiking with my kids, and gaming on the weekends! 🎮
 🤝 Let's Connect
 📂 Explore My Repositories
-#🔗 Connect on LinkedIn (Add your LinkedIn URL)
-#🌐 Portfolio Website (Optional)
+
 Feel free to contribute, collaborate, or just drop a message. Let’s build something amazing together! 🚀
 <!--
 **kdairatchi/kdairatchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
