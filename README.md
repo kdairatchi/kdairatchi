@@ -4,7 +4,7 @@
 ![Typing SVG](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-around-us.jpg)<a href="https://git.io/typing-svg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%96%A5%EF%B8%8F++About+Me)](https://git.io/typing-svg)<a href="https://git.io/typing-svg">   
- **Twitter:** [@kdairatchi](https://twitter.com/_NOT4H4CKER)
+ **Twitter:** [@kdairatchi](https://twitter.com/@_NOT4H4CKER)
 
 ## 🛠️ Skills
 **Languages:**
