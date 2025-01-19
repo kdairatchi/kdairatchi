@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for learning and building innova
 - 🌱 I’m currently learning **kubernetes and advanced cloud architectures**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **kdairatchi@example.com**
+- 📫 How to reach me: - **Twitter:** [@kdairatchi](https://twitter.com/_N0T4H4CKER)
 
 ## 🛠️ Skills
 **Languages:**
@@ -41,25 +41,21 @@ I'm a passionate software developer with a love for learning and building innova
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdairatchi&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdairatchi&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kdairatchi)](https://git.io/streak-stats)
 
 ## 🚀 Projects
 Here are some of my Recent projects:
-- **[Methologies For Beginner Bug Bounty]([link-to-project](https://kdairatchi.github.io)):** A brief description of the project and its purpose.
+- **[Methologies For Beginner Bug Bounty](https://kdairatchi.github.io)]:** A brief description of the project and its purpose.
 
-- **[Methologies For Beginner Bug Bounty]([link-to-project](https://github.com/kdairatchi/MyBountyOnelines)):** A brief description of the project and its purpose.
+- **[Methologies For Beginner Bug Bounty Oneliners](https://github.com/kdairatchi/MyBountyOnelines):** A brief description of the project and its purpose.
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kdairatchi&theme=radical)
 
 ## 📫 Contact Me
-- **Twitter:** [@kdairatchi](https://twitter.com/_N0T4H4CKER)
-
-## 🎮 Fun Stuff
+- Anytime
+## 🎮 
 ![Random Joke](https://readme-jokes.vercel.app/api)
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-Thanks for visiting my profile! 😊
-
 🎓 Cybersecurity Enthusiast: Currently pursuing a B.S. in Cybersecurity, with hands-on experience in ethical hacking and vulnerability analysis.
 🔒 Digital Guardian: Passionate about securing systems and protecting sensitive data.
 👨‍👩‍👧‍👦 Proud Father: My 4-year-old son and 4-month-old daughter inspire my drive for excellence every day.
@@ -106,6 +102,9 @@ Cybersecurity Frameworks: Familiar with NIST and ISO 27001 standards
 📂 Explore My Repositories
 
 Feel free to contribute, collaborate, or just drop a message. Let’s build something amazing together! 🚀
+
+Thanks for visiting my profile! 😊
+
 <!--
 **kdairatchi/kdairatchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
