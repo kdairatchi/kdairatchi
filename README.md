@@ -1,9 +1,7 @@
 # Hi there, I'm Kdairatchi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kdairatchi&color=blueviolet)
-![Typing SVG](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-around-us.jpg)<a href="https://git.io/typing-svg">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%96%A5%EF%B8%8F++About+Me)(https://git.io/typing-svg)   
+![Typing SVG](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-around-us.jpg)<a href="https://git.io/typing-svg"> 
 ![@kdairatchi](https://x.com/@_N0T4H4CK3R)
 
 ## 🛠️ Skills
