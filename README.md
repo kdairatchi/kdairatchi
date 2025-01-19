@@ -1,8 +1,10 @@
 # Hi there, I'm Kdairatchi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kdairatchi&color=blueviolet)
-![Typing SVG](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-around-us.jpg)<a href="https://git.io/typing-svg"> 
-![@kdairatchi](https://x.com/@_N0T4H4CK3R)
+
+![Typing SVG](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+
+[Contact Me🄧](https://x.com/@_N0T4H4CK3R)
 
 ## 🛠️ Skills
 **Languages:**
@@ -10,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![Typing SVG](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-around-us.jpg)
 **Frameworks:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
