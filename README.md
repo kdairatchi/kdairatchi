@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kdairatchi&color=blueviolet)
 
-![hippo](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRsbmd0bWx2M3F5dmV2dG9zZmd1bGplYmx3eGFnOTRpcmZ2ZjIzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TOd09KJxxog65L0MwE/giphy.gif) 
 
 [Contact Me🄧](https://x.com/@_N0T4H4CK3R)
 
