@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kdairatchi&color=blueviolet)
 
-![Typing SVG](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+![hippo](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
 [Contact Me🄧](https://x.com/@_N0T4H4CK3R)
 
@@ -61,16 +61,11 @@ Here are some of my Recent projects:
 Thanks for visiting my profile! 😊
 
 <!--
-**kdairatchi/kdairatchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+GIFs inside the repo can be used, too. This link format seems stable:
 
-Here are some ideas to get you started:
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+Relative paths work too:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![til](./app/assets/images/banner.png)
 -->
