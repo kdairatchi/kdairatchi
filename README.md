@@ -42,12 +42,6 @@
  ![GitHub Streak](https://streak-stats.demolab.com?user=kdairatchi&theme=blueberry-duo&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 
 
-## 🚀 Projects
-Here are some of my Recent projects:
-- **[Methologies For Beginner Bug Bounty](https://kdairatchi.github.io):** ![image](https://github.com/user-attachments/assets/2367c1fd-74fc-4b17-9d99-d7b86f0be668)
-
-
-- **[Methologies For Beginner Bug Bounty Oneliners](https://github.com/kdairatchi/MyBountyOnelines):** A brief description of the project and its purpose.
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kdairatchi&theme=radical)
 
