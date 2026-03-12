@@ -84,7 +84,6 @@ Here are some of the projects I'm most proud of (some are part of the **Prowlr**
 <div align="center">
   <a href="https://github.com/kdairatchi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdairatchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdairatchi&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
@@ -100,11 +99,6 @@ Here are some of the projects I'm most proud of (some are part of the **Prowlr**
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kdairatchi&theme=radical&no-frame=true&row=2&column=4" alt="trophies"/>
-</div>
-
----
 
 ## 📝 Latest Blog Posts
 
