@@ -1,6 +1,6 @@
 # kdairatchi
 
-Bug-bounty hunter who builds the tools. Crystal-native offensive security, autonomous hunt pipelines, and hardware-adjacent frameworks for offline research.
+Bug-bounty hunter who builds tools. Crystal-native offensive security, autonomous hunt pipelines, and hardware-adjacent frameworks for offline research.
 
 Work surfaces at **[prowlrbot.com](https://prowlrbot.com)**.
 
@@ -44,7 +44,7 @@ Notes       Obsidian second-brain — methodology, CVEs, red/blue playbooks
 Autonomous recon → triage → report pipelines that make one hunter move like a team.
 Prompt-injection guardrails and secret redaction for offensive tooling.
 Supply-chain posture for the bug-bounty toolchain itself — pin every action, audit every dependency.
-Crystal-native security tools, leaning on [hahwul](https://github.com/hahwul)'s ecosystem.
+Crystal-native security tools.
 
 ## Currently learning
 
